@@ -6,3 +6,4 @@ append four line
 append fine line
 第一个版本项目已部署。
 dev分支上开发
+解决了一个bug
