@@ -8,3 +8,4 @@ append fine line
 dev分支上开发
 解决了一个bug
 我在dev分支上开发
+小伙伴在dev分支上开发
